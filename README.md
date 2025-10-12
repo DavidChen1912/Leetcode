@@ -14,7 +14,8 @@ A personal collection of LeetCode algorithm problems, categorized by topic.
 - **Searching**
 - **Sorting**
 
-Mainly for continuous algorithm practice and problem-solving improvement.
+<br>
 
 > 🧠 All codes are for study and self-learning purposes.
+
 
