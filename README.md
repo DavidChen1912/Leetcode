@@ -7,7 +7,7 @@
 A personal collection of LeetCode algorithm problems, categorized by topic.
 
 - **Backtracking**
-- **Data Structure / Array**
+- **Data Structure**
 - **Divide and Conquer**
 - **Dynamic Programming**
 - **Graph**
